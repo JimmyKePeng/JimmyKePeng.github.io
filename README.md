@@ -1,8 +1,9 @@
-
 Showcase projects and skills.
 
-- Basic Features: Home/about/projects pages, contact info, smooth navigation.
+- Basic Features: Home/about/projects/contact/download resume
 
-- Enhanced Features: Contact form with email integration, downloadable resume, lightbox for project screenshots.
+- I built the frontend with React and host it on Vercel, it also have a
+  simple backend that I hosted it on Render. You can go to the Contact
+  page and leave me a message.
 
 - Advanced Features: Blog section, Content Management System integration (e.g., Markdown CMS), animation on scroll
